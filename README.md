@@ -1,2 +1,2 @@
 # vocabulary
-learn git
+learn git commands better way
